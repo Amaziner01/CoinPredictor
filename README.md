@@ -10,7 +10,7 @@ It's pretty simple to use this script...
 4. Restart from step 2.
 
 ## Have any upgrade for the code?
-Send a push request. :)
+Send a pull request. :)
 
 
 ### ¿Will you get the lowest margin of error?
